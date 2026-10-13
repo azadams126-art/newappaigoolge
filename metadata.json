@@ -1,0 +1,6 @@
+{
+  "name": "TedzTV Mobile Platform & Migration Suite",
+  "description": "TedzTV sports fan community platform featuring Expo React Native architecture, live broadcast stream, team rooms, fan reels, and Supabase integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
